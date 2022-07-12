@@ -1,6 +1,6 @@
 # media_player_3
 
-A new Flutter project.
+A Media player application for car dashboard
 
 ## Getting Started
 
