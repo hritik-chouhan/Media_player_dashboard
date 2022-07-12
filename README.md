@@ -1,16 +1,8 @@
 # media_player_3
 
-A Media player application for car dashboard
+A Media Player application for car dashboard
 
-## Getting Started
+## Intial UI of Media Player
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Media_player_ui](https://user-images.githubusercontent.com/76897843/178461115-b3035f18-acdb-4747-8e6d-7d132e4c6c49.PNG)
